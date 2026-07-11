@@ -87,6 +87,8 @@ yodel.co.uk
 abelandcole.co.uk
 gumtree.com
 cex.co.uk
+search.webuy.io
+uk.static.webuy.com
 oauth2.cex.uk.webuy.io
 wss2.cex.uk.webuy.io
 edfenergy.com
