@@ -106,4 +106,12 @@ emoji.redditmedia.com
 events.redditmedia.com
 pixel.redditmedia.com
 alb.reddit.com
+channel4.com
+c4assets.com
+channel5.com
+my5.tv
+itv.com
+itvstatic.com
+u.co.uk
+uktv.co.uk
 dwp.gov.uk
