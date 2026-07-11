@@ -148,3 +148,4 @@ shpock.co.uk
 shubi.shpock.com
 api.shpock.com
 assets.shpock.com
+m1.secondhandapp.at
