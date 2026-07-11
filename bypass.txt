@@ -131,6 +131,7 @@ channel5.com
 my5.tv
 itv.com
 itvstatic.com
+itvpnp.live.ott.irdeto.com
 u.co.uk
 uktv.co.uk
 discord.com
