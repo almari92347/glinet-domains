@@ -109,6 +109,7 @@ gateway.reddit.com
 api.reddit.com
 gql.reddit.com
 www.reddit.com
+matrix.redditspace.com
 i.redd.it
 v.redd.it
 preview.redd.it
