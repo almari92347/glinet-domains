@@ -11,3 +11,13 @@ barclaycard.co.uk
 barclaycard.com
 
 bcol.barclays
+monzo.com
+monzo.bank
+capitalone.co.uk
+capitalone.com
+klarna.com
+klarna.net
+paypal.com
+paypalobjects.com
+paypal-mktg.com
+venmo.com
