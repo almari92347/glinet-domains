@@ -20,14 +20,3 @@ events.redditmedia.com
 pixel.redditmedia.com
 
 alb.reddit.com
-reddit.com
-*.reddit.com
-
-redd.it
-*.redd.it
-
-redditmedia.com
-*.redditmedia.com
-
-redditstatic.com
-*.redditstatic.com
