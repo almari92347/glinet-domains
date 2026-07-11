@@ -10,6 +10,8 @@ barclaycard.com
 bcol.barclays
 monzo.com
 monzo.bank
+monzo.statuspage.io
+api.sta.monzo-alt.net
 capitalone.co.uk
 capitalone.com
 klarna.com
