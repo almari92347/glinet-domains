@@ -15,6 +15,7 @@ monzo.statuspage.io
 api.sta.monzo-alt.net
 capitalone.co.uk
 capitalone.com
+capitalone-ukeu.apps-imiconnect.io
 klarna.com
 klarna.net
 assets.klarnacdn.net
@@ -81,10 +82,13 @@ jdsports.co.uk
 nike.com
 dpd.co.uk
 dpd.com
+apis.consumers.dpdgroup.co.uk
 yodel.co.uk
 abelandcole.co.uk
 gumtree.com
 cex.co.uk
+oauth2.cex.uk.webuy.io
+wss2.cex.uk.webuy.io
 edfenergy.com
 api.edfgb-kraken.energy
 tfl.gov.uk
