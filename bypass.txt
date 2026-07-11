@@ -114,4 +114,13 @@ itv.com
 itvstatic.com
 u.co.uk
 uktv.co.uk
+discord.com
+discord.gg
+discord.media
+discordapp.com
+discordapp.net
+dis.gd
+cdn.discordapp.com
+media.discordapp.net
+gateway.discord.gg
 dwp.gov.uk
