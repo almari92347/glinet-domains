@@ -143,3 +143,8 @@ cdn.discordapp.com
 media.discordapp.net
 gateway.discord.gg
 dwp.gov.uk
+shpock.com
+shpock.co.uk
+shubi.shpock.com
+api.shpock.com
+assets.shpock.com
