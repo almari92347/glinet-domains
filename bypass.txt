@@ -151,3 +151,15 @@ shubi.shpock.com
 api.shpock.com
 assets.shpock.com
 m1.secondhandapp.at
+stremio.com
+strem.io
+stremio.net
+web.stremio.com
+web.strem.io
+api.strem.io
+addons.strem.io
+addons.stremio.com
+watchhub.strem.io
+opensubtitles.strem.io
+opensubtitles-v3.strem.io
+torrentio.strem.fun
