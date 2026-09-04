@@ -188,3 +188,6 @@ images.e.royalmail.com
 rover.com
 www.rover.com
 support.rover.com
+rover-indexers-1821576201.us-west-2.elb.amazonaws.com
+rover.sjv.io
+
