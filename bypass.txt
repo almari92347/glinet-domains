@@ -185,3 +185,7 @@ parcels.royalmail.com
 addressnow.royalmail.com
 app.e.royalmail.com
 images.e.royalmail.com
+www.rover.com/uk/
+rover.com
+www.rover.com
+support.rover.com
