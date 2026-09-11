@@ -190,4 +190,7 @@ www.rover.com
 support.rover.com
 rover-indexers-1821576201.us-west-2.elb.amazonaws.com
 rover.sjv.io
-
+psnprofiles.com
+www.psnprofiles.com
+forum.psnprofiles.com
+i.psnprofiles.com
