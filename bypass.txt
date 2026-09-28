@@ -201,3 +201,7 @@ ipv4bot.whatismyipaddress.com
 ipv6bot.whatismyipaddress.com
 forums.whatismyipaddress.com
 ds6.probe.whatismyipaddress.com.lan
+content.very.co.uk
+www.very.co.uk
+very.co.uk
+
