@@ -204,4 +204,11 @@ ds6.probe.whatismyipaddress.com.lan
 content.very.co.uk
 www.very.co.uk
 very.co.uk
-
+corsair.com
+www.corsair.com
+downloads.corsair.com
+help.corsair.com
+forum.corsair.com
+www3.corsair.com
+icue.com
+www.icue.com
